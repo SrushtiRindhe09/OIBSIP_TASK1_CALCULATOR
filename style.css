@@ -1,0 +1,104 @@
+.body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.button {
+    padding: 15px;
+    width: 60px;
+    margin: 0 3px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.m-w-20 {
+    max-width: 30vw;
+    height: 35vw;
+    padding-top: -10px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+    align-items: center;
+}
+
+.items {
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.row {
+    margin: 7px 0;
+}
+
+.row input {
+    margin: 0%;
+    padding: 6px 9px;
+    border-radius: 10px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: right;
+}
+
+.ac-button {
+    background-color: aqua;
+}
+
+.container {
+    background-color: whitesmoke;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin: 20px;
+}
+
+.clr-button {
+    background-color: aqua;
+}
+
+.sign-button {
+    background-color: aqua;
+}
+
+.div-button {
+    background-color: rgb(11, 122, 249);
+}
+
+.add-button {
+    background-color: rgb(11, 122, 249);
+    ;
+}
+
+.mul-button {
+    background-color: rgb(11, 122, 249);
+    ;
+}
+
+.equal-button {
+    background-color: rgb(11, 122, 249);
+}
+
+.sub-button {
+    background-color: rgb(11, 122, 249);
+}
+
+.all-button {
+    background-color: rgb(213, 210, 210);
+}
